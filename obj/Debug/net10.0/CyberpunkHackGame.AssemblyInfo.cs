@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberpunkHackGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dc5982fa89bf26db359abb378be6ca5a23211db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20f02ce70366dc18b4a83f86b0dbfbb6355b626")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberpunkHackGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberpunkHackGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
