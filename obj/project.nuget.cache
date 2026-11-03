@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjdJiR1qWHE=",
+  "success": true,
+  "projectFilePath": "/Users/hilman/CyberpunkHackGame/CyberpunkHackGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/hilman/.nuget/packages/raylib-cs/8.1.0/raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
